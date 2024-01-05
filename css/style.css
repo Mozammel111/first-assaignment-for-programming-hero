@@ -205,3 +205,34 @@ a{
 }
 
 /* hot sell part end */
+/* instragram part start */
+#instra_gram{
+    padding: 128px 0;
+}
+#instra_gram h1{
+    font-size: 40px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 800;
+    color: #272727;
+    margin-bottom: 24px;
+    text-align: center;
+}
+#instra_gram p{
+    font-size: 18px;
+    font-weight: 400;
+    font-family: 'lato', sans-serif;
+    line-height: 30px;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    margin-bottom: 35px;
+}
+.main{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 10px;
+}
+
+
+
+/* instragram part end */
