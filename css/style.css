@@ -232,7 +232,50 @@ a{
     align-items: center;
     gap: 10px;
 }
-
-
-
 /* instragram part end */
+
+/* latest deal part start */
+#latest_dealoffer{
+    background: url(../images/Rectangle\ 9.png) no-repeat, center;
+    background-size: cover;
+    padding: 122px 50px;
+    border-radius: 8px;
+}
+#latest_dealoffer h1{
+    font-size: 40px;
+    font-family: 'lato', sans-serif;
+    font-weight: 800;
+    color: #272727;
+    text-align: center;
+}
+#latest_dealoffer p{
+    font-size: 18px;
+    font-weight: 400;
+    font-family: 'lato', sans-serif;
+    line-height: 35px;
+    color:rgba(39, 39, 39, 0.60);
+    text-align: center;
+    margin-bottom: 50px;
+
+}
+.email_btn{
+    margin-left: 230px;
+}
+.input_field{
+    font-size: 16px;
+    padding: 22px;
+    width: 700px;
+    border-radius: 8px;
+
+}
+
+.btn-subscribe{
+    background-color: #E55473;
+    padding: 18.5px 30px;
+    border-radius: 10px;
+    font-size: 24px;
+    color: #FFF;
+    font-family: 'lato', sans-serif;
+}
+
+/* latest deal part end */
