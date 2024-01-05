@@ -279,3 +279,43 @@ a{
 }
 
 /* latest deal part end */
+
+/* footer part start */
+
+#footer_part{
+    background-color: #111010;
+}
+.main_footer{
+    padding: 128px 0;
+    text-align: center;
+}
+.main_footer .Typo{
+    font-size: 48px;
+    color:#E55473;
+    font-weight: 800;
+    font-family: 'lato', sans-serif;
+
+}
+.main_footer h1{
+    font-size: 48px;
+    color:#FFF;
+    font-weight: 800;
+    font-family: 'lato', sans-serif;
+
+}
+
+.main_footer p{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    font-family: 'lato', sans-serif;
+    color: rgba(255, 255, 255, 0.90);
+    margin-top: 35px;
+}
+.main_footer .copywrite{
+    font-size: 16px;
+    color: rgba(255, 255, 255, 0.40);
+    font-family: 'lato', sans-serif;
+    font-weight: 400;
+}
+/* footer part end */
